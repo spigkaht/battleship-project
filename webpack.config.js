@@ -5,7 +5,7 @@ module.exports = {
   mode: 'development',
   entry: {
     index: './src/index.js',
-    test: './src/test.js',
+    // temp: './src/temp.js',
   },
   devtool: 'inline-source-map',
   plugins: [

@@ -1,4 +1,3 @@
 import './style.css';
-import testFn from './test.js';
+// import temp from './temp.js';
 
-testFn();
